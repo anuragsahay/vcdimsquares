@@ -11,7 +11,7 @@ anuragsahay@rochester.edu
 Emmett L. Wyman
 emmett.wyman@rochester.edu
 
-This directory contains the Julia code for the numerical experiments in [REFERENCE PAPER HERE], along with the raw data and graphics featured in the paper. In the "Code" folder, there are three Julia files, one for each experiment in the paper:
+This directory contains the Julia code for the numerical experiments in https://arxiv.org/abs/2210.03789, along with the raw data and graphics featured in the paper. In the "Code" folder, there are three Julia files, one for each experiment in the paper:
 
 (1) VCdimension.jl
 (2) ArithmeticProgression.jl
